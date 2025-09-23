@@ -1,8 +1,0 @@
-@startuml Cachorro
-set namespaceSeparator none
-class "classe.Cachorro" as classe.Cachorro {
-  animals : list
-  nome
-  {abstract}latir()
-}
-@enduml
